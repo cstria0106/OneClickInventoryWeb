@@ -5,6 +5,14 @@ sidebar_position: 1
 
 One-Click Inventory를 설치하는 방법을 배웁니다.
 
+## Modular Avatar
+
+One-Click Inventory는 Modular Avatar가 설치돼있어야 사용할 수 있습니다. 다만 아바타를 제작할 때 Modular Avatar를 꼭 사용해야 하는 것은 아닙니다!
+
+Modular Avatar를 설치하는 방법은 다음 링크를 참고하세요.
+
+https://modular-avatar.nadena.dev/docs/intro
+
 ## 튜토리얼
 
 One-Click Inventory는 부스에서 다운로드하거나 VCC (CreatorCompanion)으로 설치할 수 있습니다. 한 가지 방법만 사용하세요!

@@ -19,7 +19,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro"
+            to="https://cstria0106.github.io/vpm-repos/"
           >
             🚀 VCC에 추가하기 (추천)
           </Link>
@@ -34,12 +34,6 @@ function HomepageHeader() {
             to="/docs/tutorials"
           >
             튜토리얼
-          </Link>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro"
-          >
-            문서
           </Link>
         </div>
       </div>

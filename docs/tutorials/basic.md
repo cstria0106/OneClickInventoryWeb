@@ -43,7 +43,7 @@ One-Click Inventory에서 옷장을 설정하기 위해선 옷장의 분류(옷,
 
 이렇게 하면 옷장 세팅이 끝납니다! Gesture Emulator를 이용하거나 VRChat에 업로드하여 테스트해보세요.
 
-### 주의사항 (필독)
+## 주의사항 (필독)
 
 One-Click Inventory가 잘 작동하기 위해서는 아바타의 Write Defaults 설정이 ON으로 돼있어야 합니다. OFF인 경우에는 옷 전환이 제대로 안되거나 할 수도 있어요. (기본적인건 작동하긴 합니다)
 
@@ -59,6 +59,6 @@ Write Defaults에 대한 추가 정보는 다음 링크에서 확인하세요.
 
 https://creators.vrchat.com/avatars/
 
-### 추가 정보
+## 추가 정보
 
 참고로 One-Click Inventory는 비파괴적으로 동작하기 때문에 Play 버튼을 누르거나 업로드할 때 아바타에 적용됩니다. 그렇기 때문에 아바타를 고장내지는 않을까 걱정하지 않아도 됩니다. 그냥 추가된 \[Inventory\] 컴포넌트만 제거하면 되니까요.
